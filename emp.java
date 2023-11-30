@@ -30,7 +30,7 @@ class Manager extends Employee{
 		this.department=department;
 	}
 }
-public class emp{
+class emp{
 	public static void main(String[] args){
 	Scanner sc=new Scanner(System.in);
 	System.out.println();
